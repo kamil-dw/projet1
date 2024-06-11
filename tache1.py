@@ -1,0 +1,2 @@
+a = "pape"
+print(a)
